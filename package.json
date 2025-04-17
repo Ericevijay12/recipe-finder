@@ -1,0 +1,16 @@
+{
+    "name": "recipe-finder",
+    "version": "1.0.0",
+    "description": "AI-Powered Recipe Finder",
+    "main": "src/js/main.js",
+    "type": "module",
+    "scripts": {
+        "start": "npx serve public"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "serve": "^14.2.1"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+}
